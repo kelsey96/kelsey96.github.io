@@ -1,4 +1,4 @@
-#Reusable To-Go Containers and Why You Should Use Them
+Reusable To-Go Containers and Why You Should Use Them
 
 By Kelsey Bales
 <br>
