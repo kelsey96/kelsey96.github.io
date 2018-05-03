@@ -1,5 +1,7 @@
-#How Much Does Biking _Actually_ Help the Environment?
-###By Kelsey Bales
+# How Much Does Biking _Actually_ Help the Environment?
+### By Kelsey Bales
+<br>
+<br>
 When I was in elementary and middle school, I biked everywhere—and I mean _everywhere_: swim practice, school, my friends' houses, the mall, etc.  I wasn't old enough to drive, obviously, and I was in pretty good shape from the 4 sports I played, so biking was a good way for me to get around.  Once my friends started to get their licenses, though, that almost all but ended.  Then when I got my license a couple months after, it completely stopped.  I would always choose to drive places instead of biking, primarily because driving is quicker than biking, but also occasionally because I was just being lazy.
 
 I thought nothing of my decision to ditch my bike and drive my car, until I got to college.  Virginia Tech has been regarded as a "[Bicycle Friendly University](http://bikeleague.org/sites/default/files/BFU_Award_List_2017_ALL.pdf)" since 2013, so naturally in my four years I have seen (and narrowly avoided—I've been literally inches within being hit by a biker 3 separate times) tons of bikers on campus.  I've considered bringing a bike to school since freshman year, never actually doing it because of the hassle to get my bike 3 hours here in an already-full car, but my considerations were never because of the environment; it was because I am eternally late to class, and parking is a major hassle.  It wasn't until recently, when I saw a friend of mine dripping in sweat from riding his bike around campus, and asked him exactly why he chose to bike, that I really started thinking about the effect on the environment.
