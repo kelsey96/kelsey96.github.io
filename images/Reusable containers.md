@@ -7,7 +7,9 @@
 ### What Are Reusable To-Go Containers?
 At Virginia Tech, the reusable to-go containers are part of our overall "<a href="https://www.dining.vt.edu/about/Reusable_To_Go_Program.html">Reusable To-Go Program</a>," which is the product of a partnership between VT Dining and the Student Government Association, Housing and Residence Life, and the Office of Sustainability.  They are about the same size and shape as the compostable to-go boxes, but are instead plastic (and green).  They even have an inscription on the top to remind you to "Choose to Reuse."
 <br>
-![Reusable to-go box](images/reus/reus_togobox.jpg)
+![Reusable to-go](https://github.com/kelsey96.github.io/images/reus/crop_reus_togobox.jpg)
+
+<a href="https://ibb.co/eLPhZS"><img src="https://preview.ibb.co/mH4hZS/reus_togobox.jpg" alt="reus_togobox" height="300" border="0"></a>
 
 
 ### How Does It Work?
