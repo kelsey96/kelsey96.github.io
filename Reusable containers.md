@@ -7,10 +7,10 @@
 ### What Are Reusable To-Go Containers?
 At Virginia Tech, the reusable to-go containers are part of our overall "<a href="https://www.dining.vt.edu/about/Reusable_To_Go_Program.html">Reusable To-Go Program</a>," which is the product of a partnership between VT Dining and the Student Government Association, Housing and Residence Life, and the Office of Sustainability.  They are about the same size and shape as the compostable to-go boxes, but are instead plastic (and green).  They even have an inscription on the top to remind you to "Choose to Reuse."
 <br>
-<a href="/Users/kelseybales/Documents/GitHub/kelsey96.github.io/togobox.jpg"> <img class="image" src="togobox.jpg"  height="300"/></a>
 
 
- ### How Does It Work?
+
+### How Does It Work?
 The reusable containers are offered at West End, Owens, and Turner, and return kiosks exist at West End, Owens, Turner, and Hokie Grill.  Here's a step-by-step breakdown of the process:
 <ol>
 <li>Ask for a reusable to-go container when you order food at the dining hall.</li>
@@ -28,7 +28,7 @@ So what's so good about reusable to-go containers?  They help decrease the amoun
 <br>
 <img src="https://pbs.twimg.com/media/Cp6XLJUW8AA_8mZ.jpg:large" height="300">
 
-When you hear "reusable to-go container," what do you think?  As I said earlier, I used to think that they were inconvenient and nothing more than a hassle.  But once I started using them, I realized how great they are.  They save you money, they decrease the amount of landfill waste <i>and</i> waste in your trash cans, and they don't let your food soak through!  Sounds like a great offer to me.  And now, dining halls even offer reusable to-go water bottles!  Food *and* water—what more could you need?
+When you hear "reusable to-go container," what do you think?  Like I said earlier, I used to think that they were inconvenient and nothing more than a hassle.  But once I started using them, I realized how great they are.  They save you money, they decrease the amount of landfill waste <i>and</i> waste in your trash cans, and they don't let your food soak through!  Sounds like a great offer to me.  And now, dining halls even offer reusable to-go water bottles!  Food *and* water—what more could you need?
 If you want to learn more about reusable to-go containers offered at Virginia Tech, you can check out the FAQ page <a href="https://www.dining.vt.edu/about/Reusable_To_Go_Program/frequently_asked_questions.html">here</a>.
 
 If your school doesn't have a reusable to-go container program, you can work with the Post-Landfill Action Network (PLAN) to start one through this <a href="http://www.postlandfill.org/to-go-guide/">submission form</a>.  If you want to learn more about exactly what this would require, you can find further information in PLAN's "Guide to Setting Up To-Go Container Programs on Your Campus" <a href="http://www.postlandfill.org/wp-content/uploads/2017/09/togoguide_updated_9_15_AS.pdf">here</a>.
